@@ -1,0 +1,15 @@
+{
+  "name": "code-craft",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mamerto Fabian",
+  "license": "ISC",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.20.7",
+    "dotenv": "^16.4.5"
+  }
+}
